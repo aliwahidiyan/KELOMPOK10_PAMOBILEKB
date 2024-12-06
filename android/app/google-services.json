@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694385076529",
+    "project_id": "pa-mobile-eb5e7",
+    "storage_bucket": "pa-mobile-eb5e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694385076529:android:7db4255d18ae2addea6810",
+        "android_client_info": {
+          "package_name": "com.example.pa_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEO_LnRKgzJs8PekWFUM7dg4HGaGpfNms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
